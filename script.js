@@ -1,0 +1,6 @@
+var a=prompt("ismingiz nima")
+var b=prompt("familiyangiz nima")
+var s=prompt("nechi yoshsiz")
+var d=prompt("qayera  yashaysiz")
+var e=prompt("yoqtirgan faningiz")
+console.log(a,b,s,d,e)
